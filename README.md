@@ -17,7 +17,7 @@ I am an aspiring mobile app developer from Libya, currently a student at <a href
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=flutter,cpp)](https://skillicons.dev)
 
-### Let’s Connect!
+### Find Me On
 <div>
     <a href="https://x.com/avanteino" target="_blank">
         <img src="https://static.wikia.nocookie.net/verified/images/5/54/X_Logo.jpg/revision/latest?cb=20240615021608" alt="X" width="35" height="35"/>
